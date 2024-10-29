@@ -16,8 +16,6 @@ I am a chemical engineer who discovered a passion for technology. Currently work
 </div>
 
 
-![Snake animation](https://github.com/jcezart/jcezart/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 ## 📈 GitHub Stats
 <div>
