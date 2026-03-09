@@ -1,6 +1,6 @@
 # 👋 Hello, Devs! I'm Julio Cezar. Welcome to my Github profile! :computer:
 
-I am a chemical engineer who discovered a passion for technology. Currently working with hospital systems and SQL, I have begun my journey to transition into a career as an Android developer. I am proficient in Kotlin and am actively developing my skills through online courses and personal projects. I'm passionate about creating intuitive and efficient applications and am excited to collaborate on open-source projects and contribute to the tech community.
+I am a chemical engineer who discovered a passion for technology. Currently working with hospital systems and SQL, I have begun my journey to transition into a career as an Mobile Developer. I am proficient in Kotlin and Swift,I am actively developing my skills through online courses and personal projects. I'm passionate about creating intuitive and efficient applications and am excited to collaborate on open-source projects and contribute to the tech community.
 
 
             
