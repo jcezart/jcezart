@@ -6,7 +6,13 @@ I am passionate about building intuitive and efficient applications, and I am al
 
 ## 🤓 Tech Stack
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="Swift" /> <img src="https://cdn.simpleicons.org/apple/white" width="40" height="40" alt="Apple" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="SQL" /></p>
+<div>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+</div>
 
 ## 📱 Let's connect!
 
