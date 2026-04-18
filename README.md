@@ -4,15 +4,15 @@ I am a Chemical Engineer who discovered a passion for technology. I currently wo
 
 I am passionate about building intuitive and efficient applications, and I am always looking for opportunities to learn, collaborate on open-source projects, and contribute to the tech community.
 
-## 🤓 Tech Stack
+## 🤓 Technologies & Domain
 
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-  <img src="https://img.shields.io/badge/Healthcare%20IT-0A7EA4?style=for-the-badge&logoColor=white" alt="Healthcare IT">
+  <img src="https://img.shields.io/badge/%F0%9F%8F%A5%20Healthcare%20IT-0A7EA4?style=for-the-badge&logoColor=white" alt="Healthcare IT">
 </p>
 
 ## 📱 Let's connect!
