@@ -6,13 +6,7 @@ I am passionate about building intuitive and efficient applications, and I am al
 
 ## 🤓 Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="Swift" />
-  <img src="https://cdn.simpleicons.org/apple/white" width="40" height="40" alt="Apple" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="SQL" />
-</p>
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="Swift" /> <img src="https://cdn.simpleicons.org/apple/white" width="40" height="40" alt="Apple" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="SQL" /></p>
 
 ## 📱 Let's connect!
 
